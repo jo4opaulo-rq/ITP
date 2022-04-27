@@ -31,3 +31,7 @@ A função main deve ler o tamanho e valores dos dois vetores, realizar uma cham
 
 ## Separar números em três vetores
 Implemente um programa que recebe 20 números inteiros positivos e os armazena em um vetor A. Depois separe os números em três vetores:a) Vetor dos números que são múltiplos de 3.b) Vetor dos números que são múltiplos de 4.c) Vetor dos números não são múltiplos, nem de 3 e nem de 4.
+|Exemplos de entrada|Exemplos de saída|
+|--------------------|-----------------|
+|1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|a)3,6,9,12,15,18<br>b)4,8,12,16,20<br>c)1,2,5,7,10,11,13,14,17,19|
+|25<br>2<br>3<br>1<br>45<br>85<br>64<br>20<br>22<br>24<br>12<br>4<br>3<br>26<br>81<br>216<br>20<br>15<br>23<br>20|a)3,45,24,12,3,81,216,15<br>b)64,20,24,12,4,216,20,20<br>c)25,2,1,85,22,26,23|
