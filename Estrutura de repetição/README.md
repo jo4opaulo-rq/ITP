@@ -1,6 +1,5 @@
 ## Questões
-#### 1. Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em segui-
-da, organize-os em ordem crescente e decrescente.
+#### 1. Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em seguida, organize-os em ordem crescente e decrescente.
 
 #### 4. Faça um programa que receba um número, calcule e mostre a tabuada desse número. <br>Exemplo: Digite um número: 5
 
