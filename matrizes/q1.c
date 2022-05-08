@@ -10,11 +10,10 @@ int intervalo(int matriz[LINHA][COLUNA]){
                cont += 1;
            }
         }
-    
     }
     return cont;
-
 }
+
 int main(){
     int matriz[LINHA][COLUNA];
 
