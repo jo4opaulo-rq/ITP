@@ -30,7 +30,7 @@
     ■ dos elementos da diagonal secundária;
     ■ de todos os elementos da matriz.
 
-#### 14.Faça um programa que preencha uma matriz 2  3, calcule e mostre a quantidade de elementos da matriz que não pertencem ao intervalo [5,15].
+#### 14. Faça um programa que preencha uma matriz 2 x 3, calcule e mostre a quantidade de elementos da matriz que não pertencem ao intervalo [5,15].
 
 
 #### 17. Faça um programa que preencha e mostre a média dos elementos da diagonal principal de uma matriz 10 x 10.
