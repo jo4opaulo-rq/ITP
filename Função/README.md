@@ -14,14 +14,13 @@
 #### 6. Crie uma sub-rotina que receba como parâmetro a altura (alt) e o sexo de uma pessoa e retorne seu peso ideal. Para homens, deverá calcular o peso ideal usando a fórmula: 
 
     peso ideal = 72.7 *alt − 58; 
-para mulheres:
+#### para mulheres:
     
     peso ideal = 62.1 *alt − 44.7.
 #### 7. Elabore uma sub-rotina que leia um número não determinado de valores positivos e retorne a média aritmética desses valores. Terminar a entrada de dados com o valor zero.
 
 #### 8. Faça uma sub-rotina que receba um valor inteiro e positivo, calcule e mostre seu fatorial.
-#### 9. Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo e retorne a soma dos divisores
-desse valor.
+#### 9. Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo e retorne a soma dos divisores desse valor.
 #### 10. Elabore uma sub-rotina que receba como parâmetro um valor N (inteiro e maior ou igual a 1) e determine o valor da sequência S, descrita a seguir:<br> 
 
     S = 1 + 1/2 + 1/3...
