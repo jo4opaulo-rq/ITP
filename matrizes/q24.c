@@ -26,4 +26,5 @@ int main(){
     }else{
         printf("Não foi encontrado nenhum número maior que 10\n");
     }
+    return 0;
 }
