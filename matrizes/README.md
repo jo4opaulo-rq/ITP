@@ -14,6 +14,8 @@
 
 #### 6. Faça um programa que preencha uma matriz 20 x 10 com números inteiros, e some cada uma das colunas, armazenando o resultado da soma em um vetor. A seguir, o programa deverá multiplicar cada elemento da matriz pela soma da coluna e mostrar a matriz resultante.
 
+#### 7. Elabore um programa que preencha uma matriz M de ordem 4 x 6 e uma segunda matriz N de ordem 6 x 4, calcule e imprima a soma das linhas de M com as colunas de N.
+
 #### 8. Crie um programa que preencha duas matrizes 3 x 8 com números inteiros, calcule e mostre:
     ■  a soma das duas matrizes, resultando em uma terceira matriz também de ordem 3 x 8;
     ■ a diferença das duas matrizes, resultando em uma quarta matriz também de ordem 3 x 8.
@@ -27,6 +29,9 @@
     ■ dos elementos da diagonal principal;
     ■ dos elementos da diagonal secundária;
     ■ de todos os elementos da matriz.
+
+#### 14.Faça um programa que preencha uma matriz 2  3, calcule e mostre a quantidade de elementos da matriz que não pertencem ao intervalo [5,15].
+
 
 #### 17. Faça um programa que preencha e mostre a média dos elementos da diagonal principal de uma matriz 10 x 10.
 
