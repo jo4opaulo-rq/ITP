@@ -17,11 +17,16 @@ int main(){
 
     fgets(frase, N, stdin);
 
-    for (int i = 0, posicao = 0; i < tamanho; i++, posicao++) {
-        if (frase[posicao] == ' ') {
-            posicao++;
-            frase[i] = frase[posicao];}
+    for (int i = 0; i < tamanho; i++) {
+
+        for(int j = 0;  j < tamanho; j ++) {
+            if (frase[j] == ' '){
+                frase[j] = frase[i];
+            }
+        }
     }
     printf("%s", frase);
 
-    return 0;}
+    return 0;
+    
+}
