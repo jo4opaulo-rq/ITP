@@ -7,5 +7,6 @@ void removeSpaces(char str[])
            str[j++] = str[i];
         i++;
     }
+    
     str[j] = '\0'; 
 }
